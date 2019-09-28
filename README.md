@@ -41,6 +41,6 @@ $ sudo crontab -e
 */1 * * * /usr/bin/python3 /home/pi//main v1.0.py 0
 ~~~
 3.To Save it, press `^X` then press `Y`
-"`First line` take picture at 05:00:00 o'clock with filter"
-"`Second line` take picture at 10:00:00 o'clock with filter"
-"`Third line` take picture at 05:00:00 o'clock"
+`First line` take picture at 05:00:00 o'clock with filter.
+`Second line` take picture at 10:00:00 o'clock with filter.
+`Third line` take picture at 05:00:00 o'clock.
