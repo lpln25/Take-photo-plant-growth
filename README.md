@@ -33,14 +33,14 @@ if your Raspberry Pi is not update, do steps 1 and 2 at previous level
 ~~~python
 $ sudo crontab -e
 ~~~
-2.add comment in GNU File: `crontab`
+2. add comment in GNU File: `crontab`
 ~~~python
 # m h  dom mon dow   command
 5 * * * /usr/bin/python3 /home/pi//main v1.0.py 1
 10 * * * /usr/bin/python3 /home/pi//main v1.0.py 1
 */1 * * * /usr/bin/python3 /home/pi//main v1.0.py 0
 ~~~
-3.To Save it, press `^X` then press `Y`
-`First line` take picture at 05:00:00 o'clock with filter.
-`Second line` take picture at 10:00:00 o'clock with filter.
-`Third line` take picture at 05:00:00 o'clock.
+3. To Save it, press `^X` then press `Y`
+ 3.1 `First line` take picture at 05:00:00 o'clock with filter.
+ 3.2 `Second line` take picture at 10:00:00 o'clock with filter.
+ 3.3 `Third line` take picture at 05:00:00 o'clock.
