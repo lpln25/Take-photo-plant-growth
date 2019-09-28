@@ -44,3 +44,7 @@ $ sudo crontab -e
 4. `First line` take picture at 05:00:00 o'clock with filter
 5. `Second line` take picture at 10:00:00 o'clock with filter
 6. `Third line` take picture at 05:00:00 o'clock
+
+## Result images with filter and without filter
+![image with filter](http://s4.picofile.com/file/8373726342/20_mode.JPG)
+![image without filter](http://s2.picofile.com/file/8373726826/none_mode.JPG)
